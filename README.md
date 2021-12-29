@@ -1,2 +1,6 @@
 # AI_SECURITY_Pseudonymizatoin
-study python
+study python & Pseudonymizatoin  
+
+Implementation & Service develop Idea
+
+
